@@ -4,7 +4,6 @@ Təxmin etmə oyununa xoş Gəlmisiniz..
 ***********************************
 """)
 
-
 import random
 import time
 
